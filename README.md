@@ -23,4 +23,4 @@ You should create one R script called run_analysis.R that does the following.
 
 Good luck!
 
-The code provided in this repo should fulfill those requiremenrs. It works quite simple, it pulls the data from the test and train datasets, the names for this are taken from the features file. It combines the training and test subject, and the same for the activities. The labels for the activities are pulled from the activity_labels file. All of these are combined in a single set. Then a second set is created wich takes the means by subject and activity using the dplyr packacge.
+The code provided in this repo should fulfill those requirements. It works quite simple, it pulls the data from the test and train datasets, the names for this are taken from the features file. It combines the training and test subject, and the same for the activities. The labels for the activities are pulled from the activity_labels file. All of these are combined in a single set. Then a second set is created wich takes the means by subject and activity using the dplyr packacge.
